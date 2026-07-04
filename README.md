@@ -1,5 +1,5 @@
--
--A production‑ready FastAPI application with **JWT authentication**, **SQLAlchemy ORM**, **Alembic migrations**, and **Pytest test suite**.
+
+A production‑ready FastAPI application with **JWT authentication**, **SQLAlchemy ORM**, **Alembic migrations**, and **Pytest test suite**.
 
 - **User Authentication**
   - JWT‑based login & signup
